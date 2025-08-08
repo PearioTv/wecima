@@ -6,7 +6,7 @@ from telegram import InlineKeyboardButton, InlineKeyboardMarkup, Update, ReplyKe
 from telegram.ext import Application, CommandHandler, MessageHandler, filters, CallbackQueryHandler, ContextTypes, ConversationHandler
 
 # ---------- إعدادات ----------
-TOKEN = "ضع_توكن_البوت_هنا"
+TOKEN = "8232742441:AAFv3DLDkgRpMnDBGME6OXAyGBgs163Tc0E"
 BASE_URL = "https://weciema.video"
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
